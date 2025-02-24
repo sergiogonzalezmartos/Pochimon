@@ -6,4 +6,4 @@
 Aquest projecte és una implementació de *Pochimon*.
 
 ## Contacte
-*Sergio González*** - ***sergio.gonzalez.martos@ibadia.cat***
+***Sergio González*** - ***sergio.gonzalez.martos@ibadia.cat***
